@@ -1,0 +1,3 @@
+Bases de datos ---> https://www.kaggle.com/datasets
+Primer gráfico ---> https://public.flourish.studio/visualisation/26032216/
+Segundo gráfico ---> https://public.flourish.studio/visualisation/26046910/
